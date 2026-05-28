@@ -4,7 +4,8 @@ This Power BI dashboard analyses global terrorism incidents from 2011 to 2020, f
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Choropleth Map.png)
+![Dashboard Overview](images/Event Map.png)
 
 ## Project Objectives
 
