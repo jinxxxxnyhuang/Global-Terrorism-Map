@@ -42,3 +42,11 @@ The key calculated metric is:
 - Python / Excel for data preparation
 - Global Terrorism Database
 - Population data
+
+## Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNzRiMjhkODctMWIzOC00OTQxLWI3NDUtNzIyODRhMDAwYzBlIiwidCI6IjYwZDIwZjk2LTNmYWMtNDdjMy04N2FmLTE3MDE4MDNhYWJlMyJ9
+
+## Data Source 
+START (National Consortium for the Study of Terrorism and Responses to Terrorism). (2022). Global Terrorism Database 1970 - 2020 [data file]. https://www.start.umd.edu/gtd
+
+ 
